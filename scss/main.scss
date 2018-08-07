@@ -1,0 +1,42 @@
+$gray: #CCCCCC !default;
+$yellow: #edea69 !default;
+
+.pug-head{
+    background-color: $gray;
+    height: 60px;
+    width: auto;
+}
+
+.pug-content{
+    padding-top: 5px;
+
+    &--left{
+        margin-left: 200px;
+        margin-right: 5px;
+        padding: 20px 0;
+        color: #999;
+        font-size: 15px;
+        display: inline-block;
+    }
+
+    &--right{
+	    margin-left: 5px;
+	    margin-right: 5px;
+	    padding: 20px 0;
+	    font-size: 15px;
+	    float: left;
+    }
+
+    &--center{
+        padding: 20px 0;
+	    color: #999;
+	    font-size: 15px;
+    }
+
+}
+
+.pug-head-row
+{
+    margin: 0;
+}
+

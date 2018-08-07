@@ -1,0 +1,1 @@
+thu tu co quan trong trong scripts cia package.json
