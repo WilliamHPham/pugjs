@@ -2,6 +2,7 @@
 node_modules
 bower_components
 .idea
+.vscode
 
 # ignore lock files
 *lock.json
