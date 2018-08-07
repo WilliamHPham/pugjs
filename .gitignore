@@ -1,0 +1,9 @@
+# ignore the node_modules/bower_components
+node_modules
+bower_components
+.idea
+
+# ignore lock files
+*lock.json
+public/
+*.sh
